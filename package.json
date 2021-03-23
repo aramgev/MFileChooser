@@ -1,16 +1,16 @@
 {
-  "name": "cordova-plugin-armsoft-mfilechooser",
+  "name": "cordova-plugin-evoca-mfilechooser",
   "version": "1.0.4",
   "description": "File Chooser for Cordova/Phonegap",
   "cordova": {
-    "id": "cordova-plugin-armsoft-mfilechooser",
+    "id": "cordova-plugin-evoca-mfilechooser",
     "platforms": [
       "android"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/roberthovhannisyan/MFileChooser.git"
+    "url": "git+https://github.com/aramgev/MFileChooser.git"
   },
   "keywords": [
     "cordova",
@@ -29,8 +29,5 @@
   ],
   "author": "",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/roberthovhannisyan/MFileChooser/issues"
-  },
-  "homepage": "https://github.com/roberthovhannisyan/MFileChooser#readme"
+  "homepage": "https://github.com/aramgev/MFileChooser"
 }
